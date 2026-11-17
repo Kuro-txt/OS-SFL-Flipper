@@ -2,8 +2,8 @@
   "collectibles": [
     {
       "id": 1210,
-      "floor": 0.05,
-      "lastSalePrice": 0.059,
+      "floor": 0.06,
+      "lastSalePrice": 0.05,
       "supply": 57029,
       "collection": "collectibles",
       "name": "Brilliant Bear",
@@ -27,16 +27,6 @@
       "supply": 54178,
       "collection": "collectibles",
       "name": "Construction Bear",
-      "have_boost": 0,
-      "boost_text": ""
-    },
-    {
-      "id": 1205,
-      "floor": 0.09,
-      "lastSalePrice": 0.0987,
-      "supply": 26236,
-      "collection": "collectibles",
-      "name": "Chef Bear",
       "have_boost": 0,
       "boost_text": ""
     },
@@ -68,12 +58,12 @@
       "boost_text": ""
     },
     {
-      "id": 2258,
-      "floor": 0.1,
-      "lastSalePrice": 0.007,
-      "supply": 20148,
+      "id": 1205,
+      "floor": 0.0999,
+      "lastSalePrice": 0.09,
+      "supply": 26236,
       "collection": "collectibles",
-      "name": "Lunalist",
+      "name": "Chef Bear",
       "have_boost": 0,
       "boost_text": ""
     },
@@ -88,9 +78,19 @@
       "boost_text": "+0.1 Stone"
     },
     {
+      "id": 2258,
+      "floor": 0.1,
+      "lastSalePrice": 0.1,
+      "supply": 20148,
+      "collection": "collectibles",
+      "name": "Lunalist",
+      "have_boost": 0,
+      "boost_text": ""
+    },
+    {
       "id": 3045,
       "floor": 0.1099,
-      "lastSalePrice": 0.0099,
+      "lastSalePrice": 0.1099,
       "supply": 18446,
       "collection": "collectibles"
     },
@@ -123,8 +123,8 @@
     },
     {
       "id": 1251,
-      "floor": 0.125,
-      "lastSalePrice": 0.1276,
+      "floor": 0.1249,
+      "lastSalePrice": 0.0501,
       "supply": 43934,
       "collection": "collectibles"
     },
@@ -140,21 +140,11 @@
     },
     {
       "id": 2830,
-      "floor": 0.1398,
-      "lastSalePrice": 0.13,
+      "floor": 0.1399,
+      "lastSalePrice": 0.1398,
       "supply": 10445,
       "collection": "collectibles",
       "name": "Fish Kite",
-      "have_boost": 0,
-      "boost_text": ""
-    },
-    {
-      "id": 3021,
-      "floor": 0.14,
-      "lastSalePrice": 0.15,
-      "supply": 16270,
-      "collection": "collectibles",
-      "name": "World Map Rug",
       "have_boost": 0,
       "boost_text": ""
     },
@@ -216,11 +206,14 @@
       "boost_text": ""
     },
     {
-      "id": 2360,
+      "id": 3021,
       "floor": 0.15,
       "lastSalePrice": 0.14,
-      "supply": 3703,
-      "collection": "collectibles"
+      "supply": 16270,
+      "collection": "collectibles",
+      "name": "World Map Rug",
+      "have_boost": 0,
+      "boost_text": ""
     },
     {
       "id": 2197,
@@ -254,8 +247,8 @@
     },
     {
       "id": 3049,
-      "floor": 0.1588,
-      "lastSalePrice": 0.0444,
+      "floor": 0.1586,
+      "lastSalePrice": 0.0401,
       "supply": 12981,
       "collection": "collectibles"
     },
@@ -268,6 +261,13 @@
       "name": "Squeaky Chicken",
       "have_boost": 0,
       "boost_text": ""
+    },
+    {
+      "id": 2360,
+      "floor": 0.169,
+      "lastSalePrice": 0.15,
+      "supply": 3703,
+      "collection": "collectibles"
     },
     {
       "id": 2709,
@@ -342,15 +342,8 @@
     {
       "id": 2362,
       "floor": 0.2448,
-      "lastSalePrice": 0.24,
+      "lastSalePrice": 0.2448,
       "supply": 3746,
-      "collection": "collectibles"
-    },
-    {
-      "id": 2389,
-      "floor": 0.249,
-      "lastSalePrice": 0.0601,
-      "supply": 4147,
       "collection": "collectibles"
     },
     {
@@ -372,6 +365,13 @@
       "name": "Christmas Stocking",
       "have_boost": 0,
       "boost_text": ""
+    },
+    {
+      "id": 2389,
+      "floor": 0.25,
+      "lastSalePrice": 0.249,
+      "supply": 4147,
+      "collection": "collectibles"
     },
     {
       "id": 1272,
@@ -455,13 +455,6 @@
       "boost_text": ""
     },
     {
-      "id": 2388,
-      "floor": 0.39,
-      "lastSalePrice": 0.09,
-      "supply": 2662,
-      "collection": "collectibles"
-    },
-    {
       "id": 2298,
       "floor": 0.39,
       "lastSalePrice": 0.1401,
@@ -489,14 +482,11 @@
       "collection": "collectibles"
     },
     {
-      "id": 2271,
+      "id": 2388,
       "floor": 0.4,
-      "lastSalePrice": 0.398,
-      "supply": 14492,
-      "collection": "collectibles",
-      "name": "Mini Floating Island",
-      "have_boost": 0,
-      "boost_text": ""
+      "lastSalePrice": 0.39,
+      "supply": 2662,
+      "collection": "collectibles"
     },
     {
       "id": 1278,
@@ -510,8 +500,8 @@
     },
     {
       "id": 2393,
-      "floor": 0.43,
-      "lastSalePrice": 0.24,
+      "floor": 0.439,
+      "lastSalePrice": 0.43,
       "supply": 4687,
       "collection": "collectibles"
     },
@@ -552,6 +542,16 @@
       "supply": 6969,
       "collection": "collectibles",
       "name": "Spring Duckling",
+      "have_boost": 0,
+      "boost_text": ""
+    },
+    {
+      "id": 2271,
+      "floor": 0.4798,
+      "lastSalePrice": 0.46,
+      "supply": 14492,
+      "collection": "collectibles",
+      "name": "Mini Floating Island",
       "have_boost": 0,
       "boost_text": ""
     },
@@ -651,7 +651,7 @@
     },
     {
       "id": 2160,
-      "floor": 0.749,
+      "floor": 0.7489,
       "lastSalePrice": 0.113,
       "supply": 3151,
       "collection": "collectibles",
@@ -700,6 +700,16 @@
       "boost_text": ""
     },
     {
+      "id": 2539,
+      "floor": 0.89,
+      "lastSalePrice": 0.89,
+      "supply": 26495,
+      "collection": "collectibles",
+      "name": "Anemone Flower",
+      "have_boost": 1,
+      "boost_text": "+1 Fishing minigame attempt"
+    },
+    {
       "id": 1277,
       "floor": 0.8998,
       "lastSalePrice": 0.9899,
@@ -708,16 +718,6 @@
       "name": "Dawn Flower",
       "have_boost": 0,
       "boost_text": ""
-    },
-    {
-      "id": 2539,
-      "floor": 0.9,
-      "lastSalePrice": 0.89,
-      "supply": 26495,
-      "collection": "collectibles",
-      "name": "Anemone Flower",
-      "have_boost": 1,
-      "boost_text": "+1 Fishing minigame attempt"
     },
     {
       "id": 1214,
@@ -811,7 +811,7 @@
     },
     {
       "id": 2170,
-      "floor": 1.0999,
+      "floor": 1.08,
       "lastSalePrice": 0.3101,
       "supply": 1746,
       "collection": "collectibles",
@@ -884,6 +884,13 @@
       "boost_text": ""
     },
     {
+      "id": 2380,
+      "floor": 1.25,
+      "lastSalePrice": 0.91,
+      "supply": 342,
+      "collection": "collectibles"
+    },
+    {
       "id": 2018,
       "floor": 1.2899,
       "lastSalePrice": 1.12,
@@ -925,7 +932,7 @@
     },
     {
       "id": 2184,
-      "floor": 1.3299,
+      "floor": 1.32,
       "lastSalePrice": 0.2006,
       "supply": 3516,
       "collection": "collectibles",
@@ -954,13 +961,6 @@
       "boost_text": ""
     },
     {
-      "id": 2367,
-      "floor": 1.5,
-      "lastSalePrice": 1.1,
-      "supply": 596,
-      "collection": "collectibles"
-    },
-    {
       "id": 1236,
       "floor": 1.5488,
       "lastSalePrice": 1.5,
@@ -979,13 +979,6 @@
       "name": "Paper Reed",
       "have_boost": 0,
       "boost_text": ""
-    },
-    {
-      "id": 2380,
-      "floor": 1.58,
-      "lastSalePrice": 0.91,
-      "supply": 342,
-      "collection": "collectibles"
     },
     {
       "id": 1209,
@@ -1049,16 +1042,6 @@
       "collection": "collectibles"
     },
     {
-      "id": 2997,
-      "floor": 1.77,
-      "lastSalePrice": 1.35,
-      "supply": 28489,
-      "collection": "collectibles",
-      "name": "Salt Crystal Flower",
-      "have_boost": 1,
-      "boost_text": "5% chance for +1 Flower"
-    },
-    {
       "id": 2359,
       "floor": 1.79,
       "lastSalePrice": 2,
@@ -1076,6 +1059,16 @@
       "boost_text": ""
     },
     {
+      "id": 2997,
+      "floor": 1.88,
+      "lastSalePrice": 1.88,
+      "supply": 28489,
+      "collection": "collectibles",
+      "name": "Salt Crystal Flower",
+      "have_boost": 1,
+      "boost_text": "5% chance for +1 Flower"
+    },
+    {
       "id": 2536,
       "floor": 1.89,
       "lastSalePrice": 1.89,
@@ -1084,6 +1077,13 @@
       "name": "Mermaid Cow",
       "have_boost": 0,
       "boost_text": ""
+    },
+    {
+      "id": 2367,
+      "floor": 1.9,
+      "lastSalePrice": 1.5,
+      "supply": 596,
+      "collection": "collectibles"
     },
     {
       "id": 2236,
@@ -1339,7 +1339,7 @@
     {
       "id": 2189,
       "floor": 2.8899,
-      "lastSalePrice": 2.001,
+      "lastSalePrice": 2,
       "supply": 1567,
       "collection": "collectibles",
       "name": "Lake Rug",
@@ -1435,7 +1435,7 @@
     },
     {
       "id": 1257,
-      "floor": 3.3999,
+      "floor": 3.3998,
       "lastSalePrice": 3,
       "supply": 1367,
       "collection": "collectibles",
@@ -1505,7 +1505,7 @@
     },
     {
       "id": 1286,
-      "floor": 3.69,
+      "floor": 3.6899,
       "lastSalePrice": 1.22,
       "supply": 2115,
       "collection": "collectibles",
@@ -1524,13 +1524,6 @@
       "boost_text": ""
     },
     {
-      "id": 2368,
-      "floor": 3.8,
-      "lastSalePrice": 3,
-      "supply": 474,
-      "collection": "collectibles"
-    },
-    {
       "id": 2004,
       "floor": 3.89,
       "lastSalePrice": 3.85,
@@ -1542,7 +1535,7 @@
     },
     {
       "id": 2338,
-      "floor": 3.9,
+      "floor": 3.8999,
       "lastSalePrice": 1.51,
       "supply": 321,
       "collection": "collectibles",
@@ -1589,13 +1582,6 @@
       "name": "Giant Isopod",
       "have_boost": 0,
       "boost_text": ""
-    },
-    {
-      "id": 2366,
-      "floor": 3.99,
-      "lastSalePrice": 2.1,
-      "supply": 478,
-      "collection": "collectibles"
     },
     {
       "id": 2341,
@@ -1682,6 +1668,13 @@
       "collection": "collectibles"
     },
     {
+      "id": 2366,
+      "floor": 4,
+      "lastSalePrice": 3.99,
+      "supply": 478,
+      "collection": "collectibles"
+    },
+    {
       "id": 2305,
       "floor": 4,
       "lastSalePrice": 4,
@@ -1736,6 +1729,13 @@
       "floor": 4.4999,
       "lastSalePrice": 0.7,
       "supply": 860,
+      "collection": "collectibles"
+    },
+    {
+      "id": 2368,
+      "floor": 4.56,
+      "lastSalePrice": 3.8,
+      "supply": 474,
       "collection": "collectibles"
     },
     {
@@ -1979,7 +1979,7 @@
     {
       "id": 2335,
       "floor": 5.25,
-      "lastSalePrice": 5.239,
+      "lastSalePrice": 4.45,
       "supply": 13190,
       "collection": "collectibles",
       "name": "Pet Bowls",
@@ -2264,6 +2264,16 @@
       "boost_text": ""
     },
     {
+      "id": 2346,
+      "floor": 9,
+      "lastSalePrice": 9,
+      "supply": 1892,
+      "collection": "collectibles",
+      "name": "Frozen Meat",
+      "have_boost": 0,
+      "boost_text": ""
+    },
+    {
       "id": 2526,
       "floor": 9.9999,
       "lastSalePrice": 8,
@@ -2302,16 +2312,6 @@
       "name": "Goblin Crown",
       "have_boost": 1,
       "boost_text": "+25% FLOWER & Coin Deliveries\n+10% Marks"
-    },
-    {
-      "id": 2346,
-      "floor": 10,
-      "lastSalePrice": 9,
-      "supply": 1892,
-      "collection": "collectibles",
-      "name": "Frozen Meat",
-      "have_boost": 0,
-      "boost_text": ""
     },
     {
       "id": 2237,
@@ -2492,7 +2492,7 @@
     },
     {
       "id": 2280,
-      "floor": 14.29,
+      "floor": 14.289,
       "lastSalePrice": 8,
       "supply": 187,
       "collection": "collectibles",
@@ -2613,8 +2613,8 @@
     },
     {
       "id": 2996,
-      "floor": 17.4999,
-      "lastSalePrice": 17.4998,
+      "floor": 18.34,
+      "lastSalePrice": 18.3,
       "supply": 3660,
       "collection": "collectibles",
       "name": "Flamingo Chicken",
@@ -2623,8 +2623,8 @@
     },
     {
       "id": 432,
-      "floor": 17.6999,
-      "lastSalePrice": 15.0011,
+      "floor": 18.478,
+      "lastSalePrice": 17.7,
       "supply": 9030,
       "collection": "collectibles",
       "name": "Victoria Sisters",
@@ -2684,7 +2684,7 @@
     {
       "id": 909,
       "floor": 20,
-      "lastSalePrice": 20,
+      "lastSalePrice": 19,
       "supply": 45998,
       "collection": "collectibles",
       "name": "Easter Bunny",
@@ -2702,21 +2702,21 @@
       "boost_text": ""
     },
     {
-      "id": 3050,
-      "floor": 21.5,
-      "lastSalePrice": 18.601,
-      "supply": 5172,
-      "collection": "collectibles"
-    },
-    {
       "id": 610,
-      "floor": 21.8899,
-      "lastSalePrice": 21,
+      "floor": 21,
+      "lastSalePrice": 21.8897,
       "supply": 16956,
       "collection": "collectibles",
       "name": "Speed Chicken",
       "have_boost": 1,
       "boost_text": "-10% Chicken Sleep Time"
+    },
+    {
+      "id": 3050,
+      "floor": 21.649,
+      "lastSalePrice": 20,
+      "supply": 5172,
+      "collection": "collectibles"
     },
     {
       "id": 2026,
@@ -2749,6 +2749,13 @@
       "boost_text": ""
     },
     {
+      "id": 2384,
+      "floor": 24,
+      "lastSalePrice": 12,
+      "supply": 113,
+      "collection": "collectibles"
+    },
+    {
       "id": 1294,
       "floor": 24,
       "lastSalePrice": 22,
@@ -2757,13 +2764,6 @@
       "name": "Beach Umbrella",
       "have_boost": 0,
       "boost_text": ""
-    },
-    {
-      "id": 2384,
-      "floor": 24.9999,
-      "lastSalePrice": 12,
-      "supply": 113,
-      "collection": "collectibles"
     },
     {
       "id": 926,
@@ -2777,10 +2777,20 @@
     },
     {
       "id": 3034,
-      "floor": 26.6,
-      "lastSalePrice": 25.9999,
+      "floor": 26,
+      "lastSalePrice": 23.0003,
       "supply": 900,
       "collection": "collectibles"
+    },
+    {
+      "id": 2530,
+      "floor": 27,
+      "lastSalePrice": 27.9,
+      "supply": 2962,
+      "collection": "collectibles",
+      "name": "Sleepy Chicken",
+      "have_boost": 1,
+      "boost_text": "Chickens cannot get sick during autumn"
     },
     {
       "id": 2161,
@@ -2793,16 +2803,6 @@
       "boost_text": ""
     },
     {
-      "id": 2530,
-      "floor": 28,
-      "lastSalePrice": 27.2,
-      "supply": 2962,
-      "collection": "collectibles",
-      "name": "Sleepy Chicken",
-      "have_boost": 1,
-      "boost_text": "Chickens cannot get sick during autumn"
-    },
-    {
       "id": 2116,
       "floor": 29.999,
       "lastSalePrice": 25,
@@ -2811,6 +2811,16 @@
       "name": "Pharaoh Chicken",
       "have_boost": 1,
       "boost_text": "+1 daily Desert Dig attempt"
+    },
+    {
+      "id": 2999,
+      "floor": 29.9999,
+      "lastSalePrice": 29.9999,
+      "supply": 552,
+      "collection": "collectibles",
+      "name": "Spa Sheep",
+      "have_boost": 1,
+      "boost_text": "+5 Sheep XP from Animal Affection tools"
     },
     {
       "id": 2348,
@@ -2834,15 +2844,15 @@
     },
     {
       "id": 3035,
-      "floor": 30,
-      "lastSalePrice": 27,
+      "floor": 30.8998,
+      "lastSalePrice": 30,
       "supply": 569,
       "collection": "collectibles"
     },
     {
       "id": 2713,
-      "floor": 30,
-      "lastSalePrice": 29,
+      "floor": 31,
+      "lastSalePrice": 30,
       "supply": 1847,
       "collection": "collectibles",
       "name": "Giant Gold Bone",
@@ -2850,18 +2860,8 @@
       "boost_text": "+2 Daily Cheers"
     },
     {
-      "id": 2999,
-      "floor": 30,
-      "lastSalePrice": 30,
-      "supply": 552,
-      "collection": "collectibles",
-      "name": "Spa Sheep",
-      "have_boost": 1,
-      "boost_text": "+5 Sheep XP from Animal Affection tools"
-    },
-    {
       "id": 2528,
-      "floor": 31.3968,
+      "floor": 31,
       "lastSalePrice": 30.5,
       "supply": 2722,
       "collection": "collectibles",
@@ -2891,8 +2891,8 @@
     },
     {
       "id": 612,
-      "floor": 33.2789,
-      "lastSalePrice": 30.001,
+      "floor": 33.2999,
+      "lastSalePrice": 33.28,
       "supply": 16863,
       "collection": "collectibles",
       "name": "Rich Chicken",
@@ -2917,6 +2917,16 @@
       "boost_text": "Fermented Carrots 2x Bumpkin XP"
     },
     {
+      "id": 438,
+      "floor": 34.999,
+      "lastSalePrice": 33,
+      "supply": 515,
+      "collection": "collectibles",
+      "name": "Potent Potato",
+      "have_boost": 1,
+      "boost_text": "3% Chance of +10 Potato"
+    },
+    {
       "id": 1288,
       "floor": 35,
       "lastSalePrice": 15,
@@ -2927,29 +2937,9 @@
       "boost_text": ""
     },
     {
-      "id": 438,
-      "floor": 35.5899,
-      "lastSalePrice": 33,
-      "supply": 515,
-      "collection": "collectibles",
-      "name": "Potent Potato",
-      "have_boost": 1,
-      "boost_text": "3% Chance of +10 Potato"
-    },
-    {
-      "id": 2159,
-      "floor": 36,
-      "lastSalePrice": 35,
-      "supply": 7689,
-      "collection": "collectibles",
-      "name": "Chicory",
-      "have_boost": 1,
-      "boost_text": "10% Chance for +1 Flower"
-    },
-    {
       "id": 3018,
-      "floor": 36.85,
-      "lastSalePrice": 34.02,
+      "floor": 35,
+      "lastSalePrice": 31.6,
       "supply": 5428,
       "collection": "collectibles",
       "name": "Dino Egg Trophy",
@@ -2957,8 +2947,18 @@
       "boost_text": "Speed up with Coins instead of Gems (50 Coins/Gem, up to 20,000 Coins/day)."
     },
     {
+      "id": 2159,
+      "floor": 35,
+      "lastSalePrice": 33.4,
+      "supply": 7689,
+      "collection": "collectibles",
+      "name": "Chicory",
+      "have_boost": 1,
+      "boost_text": "10% Chance for +1 Flower"
+    },
+    {
       "id": 487,
-      "floor": 36.99,
+      "floor": 36.989,
       "lastSalePrice": 30.0071,
       "supply": 1956,
       "collection": "collectibles",
@@ -2978,8 +2978,8 @@
     },
     {
       "id": 611,
-      "floor": 40,
-      "lastSalePrice": 38.9,
+      "floor": 39,
+      "lastSalePrice": 38.5,
       "supply": 17958,
       "collection": "collectibles",
       "name": "Fat Chicken",
@@ -2999,7 +2999,7 @@
     {
       "id": 2299,
       "floor": 40.78,
-      "lastSalePrice": 40,
+      "lastSalePrice": 37,
       "supply": 2480,
       "collection": "collectibles",
       "name": "Reelmaster's Chair",
@@ -3018,7 +3018,7 @@
     },
     {
       "id": 488,
-      "floor": 40.999,
+      "floor": 40.998,
       "lastSalePrice": 35.51,
       "supply": 1809,
       "collection": "collectibles",
@@ -3028,7 +3028,7 @@
     },
     {
       "id": 439,
-      "floor": 41.9997,
+      "floor": 40.9999,
       "lastSalePrice": 39,
       "supply": 470,
       "collection": "collectibles",
@@ -3058,7 +3058,7 @@
     },
     {
       "id": 2538,
-      "floor": 44.966,
+      "floor": 44.9599,
       "lastSalePrice": 44.966,
       "supply": 3406,
       "collection": "collectibles",
@@ -3078,8 +3078,8 @@
     },
     {
       "id": 437,
-      "floor": 46.9799,
-      "lastSalePrice": 46.9899,
+      "floor": 46.979,
+      "lastSalePrice": 42.1,
       "supply": 484,
       "collection": "collectibles",
       "name": "Stellar Sunflower",
@@ -3122,7 +3122,7 @@
     },
     {
       "id": 500,
-      "floor": 49.7999,
+      "floor": 50,
       "lastSalePrice": 49.78,
       "supply": 1487,
       "collection": "collectibles",
@@ -3132,8 +3132,8 @@
     },
     {
       "id": 2825,
-      "floor": 49.8,
-      "lastSalePrice": 49,
+      "floor": 50.447,
+      "lastSalePrice": 50.44,
       "supply": 1950,
       "collection": "collectibles",
       "name": "Oaken",
@@ -3143,7 +3143,7 @@
     {
       "id": 442,
       "floor": 52,
-      "lastSalePrice": 51,
+      "lastSalePrice": 46,
       "supply": 2535,
       "collection": "collectibles",
       "name": "Lady Bug",
@@ -3171,6 +3171,16 @@
       "boost_text": "+0.1 Corn"
     },
     {
+      "id": 456,
+      "floor": 59,
+      "lastSalePrice": 51,
+      "supply": 2048,
+      "collection": "collectibles",
+      "name": "Mushroom House",
+      "have_boost": 1,
+      "boost_text": "+0.2 Wild Mushroom"
+    },
+    {
       "id": 2355,
       "floor": 60,
       "lastSalePrice": 30,
@@ -3181,26 +3191,16 @@
       "boost_text": ""
     },
     {
-      "id": 456,
-      "floor": 60,
-      "lastSalePrice": 52,
-      "supply": 2048,
-      "collection": "collectibles",
-      "name": "Mushroom House",
-      "have_boost": 1,
-      "boost_text": "+0.2 Wild Mushroom"
-    },
-    {
       "id": 3036,
-      "floor": 60.9999,
-      "lastSalePrice": 60,
+      "floor": 60,
+      "lastSalePrice": 56.1,
       "supply": 619,
       "collection": "collectibles"
     },
     {
       "id": 2114,
-      "floor": 61.9,
-      "lastSalePrice": 51.0001,
+      "floor": 61.899,
+      "lastSalePrice": 51.4,
       "supply": 2465,
       "collection": "collectibles",
       "name": "Lemon Frog",
@@ -3208,19 +3208,9 @@
       "boost_text": "-25% Lemon Growth Time"
     },
     {
-      "id": 433,
-      "floor": 62,
-      "lastSalePrice": 57,
-      "supply": 1000,
-      "collection": "collectibles",
-      "name": "Peeled Potato",
-      "have_boost": 1,
-      "boost_text": "20% Chance for +1 Potato"
-    },
-    {
       "id": 2257,
-      "floor": 64.889,
-      "lastSalePrice": 55.222,
+      "floor": 64.99,
+      "lastSalePrice": 64.89,
       "supply": 220,
       "collection": "collectibles",
       "name": "Nurse Sheep",
@@ -3248,6 +3238,16 @@
       "boost_text": "+0.25 Cabbage"
     },
     {
+      "id": 433,
+      "floor": 66,
+      "lastSalePrice": 57,
+      "supply": 1000,
+      "collection": "collectibles",
+      "name": "Peeled Potato",
+      "have_boost": 1,
+      "boost_text": "20% Chance for +1 Potato"
+    },
+    {
       "id": 834,
       "floor": 67,
       "lastSalePrice": 15,
@@ -3256,8 +3256,8 @@
     },
     {
       "id": 2826,
-      "floor": 69.9799,
-      "lastSalePrice": 69.9799,
+      "floor": 69.978,
+      "lastSalePrice": 62.2,
       "supply": 4133,
       "collection": "collectibles",
       "name": "Meerkat",
@@ -3266,8 +3266,8 @@
     },
     {
       "id": 2268,
-      "floor": 72,
-      "lastSalePrice": 70,
+      "floor": 72.9498,
+      "lastSalePrice": 60,
       "supply": 1433,
       "collection": "collectibles",
       "name": "Giant Yam",
@@ -3326,7 +3326,7 @@
     },
     {
       "id": 486,
-      "floor": 84.4,
+      "floor": 84.3499,
       "lastSalePrice": 73.2,
       "supply": 1583,
       "collection": "collectibles",
@@ -3336,7 +3336,7 @@
     },
     {
       "id": 2109,
-      "floor": 84.897,
+      "floor": 84.799,
       "lastSalePrice": 80,
       "supply": 1852,
       "collection": "collectibles",
@@ -3360,7 +3360,7 @@
     },
     {
       "id": 2270,
-      "floor": 94,
+      "floor": 93,
       "lastSalePrice": 105.999,
       "supply": 587,
       "collection": "collectibles",
@@ -3369,24 +3369,24 @@
       "boost_text": "-50% Zucchini Plot Growth Time"
     },
     {
-      "id": 2203,
-      "floor": 94.5,
-      "lastSalePrice": 93,
-      "supply": 1548,
-      "collection": "collectibles",
-      "name": "Jellyfish",
-      "have_boost": 1,
-      "boost_text": "+1 Fish during Summer"
-    },
-    {
       "id": 1227,
-      "floor": 97.7999,
+      "floor": 97.5,
       "lastSalePrice": 99,
       "supply": 1620,
       "collection": "collectibles",
       "name": "Foliant",
       "have_boost": 1,
       "boost_text": "+0.2 Kale"
+    },
+    {
+      "id": 2203,
+      "floor": 97.902,
+      "lastSalePrice": 94.5,
+      "supply": 1548,
+      "collection": "collectibles",
+      "name": "Jellyfish",
+      "have_boost": 1,
+      "boost_text": "+1 Fish during Summer"
     },
     {
       "id": 826,
@@ -3408,7 +3408,7 @@
     {
       "id": 443,
       "floor": 102,
-      "lastSalePrice": 99,
+      "lastSalePrice": 93,
       "supply": 1035,
       "collection": "collectibles",
       "name": "Squirrel Monkey",
@@ -3417,7 +3417,7 @@
     },
     {
       "id": 2105,
-      "floor": 104.9788,
+      "floor": 104.9787,
       "lastSalePrice": 104.5,
       "supply": 895,
       "collection": "collectibles",
@@ -3428,7 +3428,7 @@
     {
       "id": 473,
       "floor": 112,
-      "lastSalePrice": 109,
+      "lastSalePrice": 111.999,
       "supply": 2770,
       "collection": "collectibles",
       "name": "Kernaldo",
@@ -3466,16 +3466,6 @@
       "boost_text": "+1 Corn\nAffects plots around (3x4)"
     },
     {
-      "id": 469,
-      "floor": 119,
-      "lastSalePrice": 119,
-      "supply": 499,
-      "collection": "collectibles",
-      "name": "Freya Fox",
-      "have_boost": 1,
-      "boost_text": "+0.5 Pumpkin"
-    },
-    {
       "id": 2200,
       "floor": 120,
       "lastSalePrice": 77.11,
@@ -3486,9 +3476,26 @@
       "boost_text": "Sheep cannot get sick during winter"
     },
     {
-      "id": 447,
+      "id": 3033,
       "floor": 120,
-      "lastSalePrice": 119.9999,
+      "lastSalePrice": 120,
+      "supply": 823,
+      "collection": "collectibles"
+    },
+    {
+      "id": 469,
+      "floor": 122,
+      "lastSalePrice": 101,
+      "supply": 499,
+      "collection": "collectibles",
+      "name": "Freya Fox",
+      "have_boost": 1,
+      "boost_text": "+0.5 Pumpkin"
+    },
+    {
+      "id": 447,
+      "floor": 126.9987,
+      "lastSalePrice": 126.98,
       "supply": 7799,
       "collection": "collectibles",
       "name": "Tiki Totem",
@@ -3496,11 +3503,14 @@
       "boost_text": "+0.1 Wood"
     },
     {
-      "id": 3033,
-      "floor": 122,
-      "lastSalePrice": 120,
-      "supply": 823,
-      "collection": "collectibles"
+      "id": 2199,
+      "floor": 129.999,
+      "lastSalePrice": 84,
+      "supply": 227,
+      "collection": "collectibles",
+      "name": "Frozen Cow",
+      "have_boost": 1,
+      "boost_text": "Cows cannot get sick during winter"
     },
     {
       "id": 1538,
@@ -3511,16 +3521,6 @@
       "name": "Battle Fish",
       "have_boost": 1,
       "boost_text": "+0.05 Oil"
-    },
-    {
-      "id": 2199,
-      "floor": 137.995,
-      "lastSalePrice": 104,
-      "supply": 227,
-      "collection": "collectibles",
-      "name": "Frozen Cow",
-      "have_boost": 1,
-      "boost_text": "Cows cannot get sick during winter"
     },
     {
       "id": 2998,
@@ -3534,8 +3534,8 @@
     },
     {
       "id": 472,
-      "floor": 142.99,
-      "lastSalePrice": 140,
+      "floor": 140,
+      "lastSalePrice": 142.99,
       "supply": 2777,
       "collection": "collectibles",
       "name": "Grain Grinder",
@@ -3564,13 +3564,23 @@
     },
     {
       "id": 911,
-      "floor": 151,
+      "floor": 150,
       "lastSalePrice": 150,
       "supply": 5563,
       "collection": "collectibles",
       "name": "Observatory",
       "have_boost": 1,
       "boost_text": "+5% Bumpkin XP"
+    },
+    {
+      "id": 420,
+      "floor": 152,
+      "lastSalePrice": 150,
+      "supply": 17857,
+      "collection": "collectibles",
+      "name": "Nancy",
+      "have_boost": 1,
+      "boost_text": "-15% Crop Growth Time\nDisabled if Scarecrow or Kuebiko Active"
     },
     {
       "id": 2156,
@@ -3581,16 +3591,6 @@
       "name": "Swiss Whiskers",
       "have_boost": 1,
       "boost_text": "+500 Bumpkin XP from Cheese Recipes"
-    },
-    {
-      "id": 420,
-      "floor": 156,
-      "lastSalePrice": 150,
-      "supply": 17857,
-      "collection": "collectibles",
-      "name": "Nancy",
-      "have_boost": 1,
-      "boost_text": "-15% Crop Growth Time\nDisabled if Scarecrow or Kuebiko Active"
     },
     {
       "id": 479,
@@ -3605,7 +3605,7 @@
     {
       "id": 419,
       "floor": 160,
-      "lastSalePrice": 135,
+      "lastSalePrice": 146,
       "supply": 1001,
       "collection": "collectibles",
       "name": "Carrot Sword",
@@ -3634,7 +3634,7 @@
     },
     {
       "id": 2525,
-      "floor": 180,
+      "floor": 179.999,
       "lastSalePrice": 130.001,
       "supply": 577,
       "collection": "collectibles",
@@ -3653,16 +3653,6 @@
       "boost_text": "-20% Trap Pot time"
     },
     {
-      "id": 493,
-      "floor": 189,
-      "lastSalePrice": 151,
-      "supply": 355,
-      "collection": "collectibles",
-      "name": "Hungry Caterpillar",
-      "have_boost": 1,
-      "boost_text": "Free Flower Seeds"
-    },
-    {
       "id": 496,
       "floor": 190,
       "lastSalePrice": 189,
@@ -3673,9 +3663,19 @@
       "boost_text": "+1 Soybean"
     },
     {
+      "id": 493,
+      "floor": 192,
+      "lastSalePrice": 151,
+      "supply": 355,
+      "collection": "collectibles",
+      "name": "Hungry Caterpillar",
+      "have_boost": 1,
+      "boost_text": "Free Flower Seeds"
+    },
+    {
       "id": 494,
-      "floor": 199,
-      "lastSalePrice": 199,
+      "floor": 198,
+      "lastSalePrice": 195,
       "supply": 1770,
       "collection": "collectibles",
       "name": "Crim Peckster",
@@ -3711,8 +3711,8 @@
     },
     {
       "id": 448,
-      "floor": 205,
-      "lastSalePrice": 202.9869,
+      "floor": 207.97,
+      "lastSalePrice": 205,
       "supply": 6209,
       "collection": "collectibles",
       "name": "Lunar Calendar",
@@ -3721,8 +3721,8 @@
     },
     {
       "id": 450,
-      "floor": 213,
-      "lastSalePrice": 215,
+      "floor": 214,
+      "lastSalePrice": 190,
       "supply": 999,
       "collection": "collectibles",
       "name": "Heart of Davy Jones",
@@ -3731,8 +3731,8 @@
     },
     {
       "id": 428,
-      "floor": 214,
-      "lastSalePrice": 210,
+      "floor": 215,
+      "lastSalePrice": 214,
       "supply": 9998,
       "collection": "collectibles",
       "name": "Tunnel Mole",
@@ -3741,7 +3741,7 @@
     },
     {
       "id": 2301,
-      "floor": 221,
+      "floor": 219,
       "lastSalePrice": 221.999,
       "supply": 1552,
       "collection": "collectibles",
@@ -3751,8 +3751,8 @@
     },
     {
       "id": 485,
-      "floor": 225,
-      "lastSalePrice": 220,
+      "floor": 224.88,
+      "lastSalePrice": 224.82,
       "supply": 2318,
       "collection": "collectibles",
       "name": "Skill Shrimpy",
@@ -3760,18 +3760,8 @@
       "boost_text": "+20% Bumpkin XP from Fish"
     },
     {
-      "id": 1540,
-      "floor": 230,
-      "lastSalePrice": 216,
-      "supply": 916,
-      "collection": "collectibles",
-      "name": "Longhorn Cowfish",
-      "have_boost": 1,
-      "boost_text": "+0.2 Milk"
-    },
-    {
       "id": 613,
-      "floor": 233,
+      "floor": 232,
       "lastSalePrice": 232,
       "supply": 2510,
       "collection": "collectibles",
@@ -3800,9 +3790,26 @@
       "boost_text": "+1 Eggplant"
     },
     {
+      "id": 3031,
+      "floor": 240,
+      "lastSalePrice": 253.996,
+      "supply": 251,
+      "collection": "collectibles"
+    },
+    {
+      "id": 1540,
+      "floor": 241.9858,
+      "lastSalePrice": 230,
+      "supply": 916,
+      "collection": "collectibles",
+      "name": "Longhorn Cowfish",
+      "have_boost": 1,
+      "boost_text": "+0.2 Milk"
+    },
+    {
       "id": 470,
-      "floor": 241,
-      "lastSalePrice": 201,
+      "floor": 242,
+      "lastSalePrice": 241,
       "supply": 1619,
       "collection": "collectibles",
       "name": "El Pollo Veloz",
@@ -3811,7 +3818,7 @@
     },
     {
       "id": 2191,
-      "floor": 248.9999,
+      "floor": 247,
       "lastSalePrice": 222.1,
       "supply": 855,
       "collection": "collectibles",
@@ -3824,23 +3831,6 @@
       "floor": 250,
       "lastSalePrice": 200,
       "supply": 36,
-      "collection": "collectibles"
-    },
-    {
-      "id": 2714,
-      "floor": 250,
-      "lastSalePrice": 230,
-      "supply": 596,
-      "collection": "collectibles",
-      "name": "Lunar Temple",
-      "have_boost": 1,
-      "boost_text": "+1 help progress to player's monuments"
-    },
-    {
-      "id": 3031,
-      "floor": 255.999,
-      "lastSalePrice": 253.996,
-      "supply": 251,
       "collection": "collectibles"
     },
     {
@@ -3874,24 +3864,34 @@
       "boost_text": ""
     },
     {
-      "id": 429,
-      "floor": 276,
-      "lastSalePrice": 255,
-      "supply": 3390,
+      "id": 2714,
+      "floor": 279,
+      "lastSalePrice": 230,
+      "supply": 596,
       "collection": "collectibles",
-      "name": "Rocky the Mole",
+      "name": "Lunar Temple",
       "have_boost": 1,
-      "boost_text": "+0.25 Iron"
+      "boost_text": "+1 help progress to player's monuments"
     },
     {
       "id": 445,
-      "floor": 286,
+      "floor": 289,
       "lastSalePrice": 264,
       "supply": 1828,
       "collection": "collectibles",
       "name": "Ayam Cemani",
       "have_boost": 1,
       "boost_text": "+0.2 Egg"
+    },
+    {
+      "id": 429,
+      "floor": 294,
+      "lastSalePrice": 257,
+      "supply": 3390,
+      "collection": "collectibles",
+      "name": "Rocky the Mole",
+      "have_boost": 1,
+      "boost_text": "+0.25 Iron"
     },
     {
       "id": 2372,
@@ -3911,16 +3911,9 @@
       "boost_text": "+0.25 Leather"
     },
     {
-      "id": 3046,
-      "floor": 342,
-      "lastSalePrice": 330,
-      "supply": 442,
-      "collection": "collectibles"
-    },
-    {
       "id": 2256,
-      "floor": 344,
-      "lastSalePrice": 294,
+      "floor": 333,
+      "lastSalePrice": 293,
       "supply": 486,
       "collection": "collectibles",
       "name": "Dr Cow",
@@ -3928,8 +3921,15 @@
       "boost_text": "5% less feeding cost for cows"
     },
     {
+      "id": 3046,
+      "floor": 340.85,
+      "lastSalePrice": 330,
+      "supply": 442,
+      "collection": "collectibles"
+    },
+    {
       "id": 435,
-      "floor": 344,
+      "floor": 342,
       "lastSalePrice": 365,
       "supply": 364,
       "collection": "collectibles",
@@ -3949,23 +3949,13 @@
     },
     {
       "id": 480,
-      "floor": 357,
+      "floor": 356,
       "lastSalePrice": 336,
       "supply": 500,
       "collection": "collectibles",
       "name": "Knowledge Crab",
       "have_boost": 1,
       "boost_text": "Double Sprout Mix Boost Effect"
-    },
-    {
-      "id": 427,
-      "floor": 370,
-      "lastSalePrice": 334,
-      "supply": 3021,
-      "collection": "collectibles",
-      "name": "Rock Golem",
-      "have_boost": 1,
-      "boost_text": "10% Chance of +2 Stone"
     },
     {
       "id": 2164,
@@ -3988,6 +3978,16 @@
       "boost_text": "-50% Parsnip Growth Time"
     },
     {
+      "id": 427,
+      "floor": 389,
+      "lastSalePrice": 340,
+      "supply": 3021,
+      "collection": "collectibles",
+      "name": "Rock Golem",
+      "have_boost": 1,
+      "boost_text": "10% Chance of +2 Stone"
+    },
+    {
       "id": 444,
       "floor": 390,
       "lastSalePrice": 365,
@@ -3999,7 +3999,7 @@
     },
     {
       "id": 2154,
-      "floor": 404.99,
+      "floor": 400,
       "lastSalePrice": 250,
       "supply": 503,
       "collection": "collectibles",
@@ -4009,13 +4009,23 @@
     },
     {
       "id": 466,
-      "floor": 434,
+      "floor": 433,
       "lastSalePrice": 357,
       "supply": 525,
       "collection": "collectibles",
       "name": "Sir Goldensnout",
       "have_boost": 1,
       "boost_text": "+0.5 crop yield\nAffects plots around (4x4)"
+    },
+    {
+      "id": 415,
+      "floor": 490,
+      "lastSalePrice": 474,
+      "supply": 3328,
+      "collection": "collectibles",
+      "name": "Woody the Beaver",
+      "have_boost": 1,
+      "boost_text": "+20% Wood\nDisabled if Apprentice Beaver or Foreman Beaver Active"
     },
     {
       "id": 490,
@@ -4028,21 +4038,21 @@
       "boost_text": "20% Chance for +1 Flower"
     },
     {
-      "id": 415,
-      "floor": 496,
-      "lastSalePrice": 474,
-      "supply": 3328,
-      "collection": "collectibles",
-      "name": "Woody the Beaver",
-      "have_boost": 1,
-      "boost_text": "+20% Wood\nDisabled if Apprentice Beaver or Foreman Beaver Active"
-    },
-    {
       "id": 806,
       "floor": 499,
       "lastSalePrice": 150,
       "supply": 49,
       "collection": "collectibles"
+    },
+    {
+      "id": 2308,
+      "floor": 499,
+      "lastSalePrice": 470,
+      "supply": 350,
+      "collection": "collectibles",
+      "name": "Giant Turnip",
+      "have_boost": 1,
+      "boost_text": "-50% Turnip Growth Time"
     },
     {
       "id": 407,
@@ -4075,16 +4085,6 @@
       "boost_text": "-10% Crimstone recovery time\n10% chance for Crimstone to recover instantly"
     },
     {
-      "id": 2308,
-      "floor": 547,
-      "lastSalePrice": 470,
-      "supply": 350,
-      "collection": "collectibles",
-      "name": "Giant Turnip",
-      "have_boost": 1,
-      "boost_text": "-50% Turnip Growth Time"
-    },
-    {
       "id": 2122,
       "floor": 548,
       "lastSalePrice": 470,
@@ -4095,13 +4095,6 @@
       "boost_text": "-50% Tomato Growth Time"
     },
     {
-      "id": 3054,
-      "floor": 560,
-      "lastSalePrice": 493,
-      "supply": 170,
-      "collection": "collectibles"
-    },
-    {
       "id": 804,
       "floor": 600,
       "lastSalePrice": 350,
@@ -4109,9 +4102,16 @@
       "collection": "collectibles"
     },
     {
+      "id": 3054,
+      "floor": 627,
+      "lastSalePrice": 536,
+      "supply": 170,
+      "collection": "collectibles"
+    },
+    {
       "id": 3053,
       "floor": 652,
-      "lastSalePrice": 603,
+      "lastSalePrice": 602,
       "supply": 410,
       "collection": "collectibles"
     },
@@ -4137,7 +4137,7 @@
     },
     {
       "id": 2163,
-      "floor": 678,
+      "floor": 676,
       "lastSalePrice": 400,
       "supply": 90,
       "collection": "collectibles",
@@ -4147,7 +4147,7 @@
     },
     {
       "id": 2303,
-      "floor": 680.999,
+      "floor": 679,
       "lastSalePrice": 420.1,
       "supply": 137,
       "collection": "collectibles",
@@ -4197,7 +4197,7 @@
     },
     {
       "id": 2307,
-      "floor": 895,
+      "floor": 890,
       "lastSalePrice": 721,
       "supply": 400,
       "collection": "collectibles",
@@ -4297,7 +4297,7 @@
     },
     {
       "id": 2127,
-      "floor": 998.8879,
+      "floor": 998.8799,
       "lastSalePrice": 900,
       "supply": 563,
       "collection": "collectibles",
@@ -4337,16 +4337,6 @@
       "boost_text": "+100% Map Piece Odds"
     },
     {
-      "id": 3001,
-      "floor": 1049,
-      "lastSalePrice": 957,
-      "supply": 81,
-      "collection": "collectibles",
-      "name": "Deep Sea Slug",
-      "have_boost": 1,
-      "boost_text": "+5 daily fishing reels\n+1 Worm from Composting"
-    },
-    {
       "id": 2264,
       "floor": 1193,
       "lastSalePrice": 1099,
@@ -4358,7 +4348,7 @@
     },
     {
       "id": 2152,
-      "floor": 1210,
+      "floor": 1208,
       "lastSalePrice": 1034.999,
       "supply": 664,
       "collection": "collectibles",
@@ -4387,16 +4377,6 @@
       "boost_text": "+1 Fish"
     },
     {
-      "id": 416,
-      "floor": 1678,
-      "lastSalePrice": 1670,
-      "supply": 2069,
-      "collection": "collectibles",
-      "name": "Apprentice Beaver",
-      "have_boost": 1,
-      "boost_text": "+20% Wood\n-50% Tree Recovery Time\nDisabled if Foreman Beaver Active"
-    },
-    {
       "id": 2309,
       "floor": 1699,
       "lastSalePrice": 1698,
@@ -4405,6 +4385,16 @@
       "name": "Groovy Gramophone",
       "have_boost": 1,
       "boost_text": "-50% Growth Time in Crop Machine"
+    },
+    {
+      "id": 416,
+      "floor": 1750,
+      "lastSalePrice": 1678,
+      "supply": 2069,
+      "collection": "collectibles",
+      "name": "Apprentice Beaver",
+      "have_boost": 1,
+      "boost_text": "+20% Wood\n-50% Tree Recovery Time\nDisabled if Foreman Beaver Active"
     },
     {
       "id": 2715,
@@ -4502,6 +4492,26 @@
       "collection": "collectibles"
     },
     {
+      "id": 408,
+      "floor": 2997,
+      "lastSalePrice": 2000,
+      "supply": 1015,
+      "collection": "collectibles",
+      "name": "Chicken Coop",
+      "have_boost": 1,
+      "boost_text": "+1 Egg\n+5 Base Chickens\n+5 Max Chickens per Hen House Upgrade"
+    },
+    {
+      "id": 3001,
+      "floor": 3033,
+      "lastSalePrice": 957,
+      "supply": 81,
+      "collection": "collectibles",
+      "name": "Deep Sea Slug",
+      "have_boost": 1,
+      "boost_text": "+5 daily fishing reels\n+1 Worm from Composting"
+    },
+    {
       "id": 461,
       "floor": 3199,
       "lastSalePrice": 2420,
@@ -4512,18 +4522,8 @@
       "boost_text": "+0.5 Wheat, Radish, Kale, Rice, Barley"
     },
     {
-      "id": 408,
-      "floor": 3290,
-      "lastSalePrice": 2000,
-      "supply": 1015,
-      "collection": "collectibles",
-      "name": "Chicken Coop",
-      "have_boost": 1,
-      "boost_text": "+1 Egg\n+5 Base Chickens\n+5 Max Chickens per Hen House Upgrade"
-    },
-    {
       "id": 2194,
-      "floor": 3332,
+      "floor": 3328,
       "lastSalePrice": 3339,
       "supply": 500,
       "collection": "collectibles",
@@ -4533,7 +4533,7 @@
     },
     {
       "id": 2993,
-      "floor": 3450,
+      "floor": 3500,
       "lastSalePrice": 3100,
       "supply": 80,
       "collection": "collectibles",
@@ -4562,8 +4562,15 @@
       "boost_text": "+0.5 Obsidian"
     },
     {
+      "id": 3044,
+      "floor": 4699,
+      "lastSalePrice": 3400,
+      "supply": 130,
+      "collection": "collectibles"
+    },
+    {
       "id": 2994,
-      "floor": 4780,
+      "floor": 4950,
       "lastSalePrice": 4444,
       "supply": 110,
       "collection": "collectibles",
@@ -4572,15 +4579,8 @@
       "boost_text": "+2 Crustacean yield"
     },
     {
-      "id": 3044,
-      "floor": 4947,
-      "lastSalePrice": 3400,
-      "supply": 130,
-      "collection": "collectibles"
-    },
-    {
       "id": 495,
-      "floor": 5739,
+      "floor": 5500,
       "lastSalePrice": 5500,
       "supply": 155,
       "collection": "collectibles",
@@ -4624,7 +4624,7 @@
     },
     {
       "id": 2193,
-      "floor": 6999,
+      "floor": 6995,
       "lastSalePrice": 5544,
       "supply": 275,
       "collection": "collectibles",
@@ -4953,14 +4953,14 @@
     {
       "id": 34,
       "floor": 0.009,
-      "lastSalePrice": 0.0003,
+      "lastSalePrice": 0.0001,
       "supply": 173132,
       "collection": "wearables"
     },
     {
       "id": 41,
       "floor": 0.0146,
-      "lastSalePrice": 0.0004,
+      "lastSalePrice": 0.0146,
       "supply": 177898,
       "collection": "wearables"
     },
@@ -4987,8 +4987,8 @@
     },
     {
       "id": 44,
-      "floor": 0.0399,
-      "lastSalePrice": 0.0003,
+      "floor": 0.04,
+      "lastSalePrice": 0.0399,
       "supply": 154962,
       "collection": "wearables"
     },
@@ -5016,7 +5016,7 @@
     {
       "id": 302,
       "floor": 0.079,
-      "lastSalePrice": 0.0799,
+      "lastSalePrice": 0.0019,
       "supply": 15600,
       "collection": "wearables",
       "name": "Blue Rose Dress",
@@ -5052,7 +5052,7 @@
     },
     {
       "id": 561,
-      "floor": 0.1,
+      "floor": 0.11,
       "lastSalePrice": 0.1,
       "supply": 15182,
       "collection": "wearables",
@@ -5080,7 +5080,7 @@
     {
       "id": 579,
       "floor": 0.1215,
-      "lastSalePrice": 0.0211,
+      "lastSalePrice": 0.1215,
       "supply": 6587,
       "collection": "wearables"
     },
@@ -5095,8 +5095,15 @@
       "boost_text": ""
     },
     {
+      "id": 580,
+      "floor": 0.1299,
+      "lastSalePrice": 0.1589,
+      "supply": 10075,
+      "collection": "wearables"
+    },
+    {
       "id": 421,
-      "floor": 0.1349,
+      "floor": 0.13,
       "lastSalePrice": 0.0022,
       "supply": 10618,
       "collection": "wearables"
@@ -5116,13 +5123,6 @@
       "floor": 0.14,
       "lastSalePrice": 0.1397,
       "supply": 22197,
-      "collection": "wearables"
-    },
-    {
-      "id": 580,
-      "floor": 0.14,
-      "lastSalePrice": 0.1589,
-      "supply": 10075,
       "collection": "wearables"
     },
     {
@@ -5187,22 +5187,22 @@
       "boost_text": ""
     },
     {
+      "id": 288,
+      "floor": 0.1899,
+      "lastSalePrice": 0.0172,
+      "supply": 8906,
+      "collection": "wearables",
+      "name": "Fairy Sandals",
+      "have_boost": 0,
+      "boost_text": ""
+    },
+    {
       "id": 404,
       "floor": 0.19,
       "lastSalePrice": 0.0301,
       "supply": 6109,
       "collection": "wearables",
       "name": "Cowgirl Skirt",
-      "have_boost": 0,
-      "boost_text": ""
-    },
-    {
-      "id": 288,
-      "floor": 0.2099,
-      "lastSalePrice": 0.18,
-      "supply": 8906,
-      "collection": "wearables",
-      "name": "Fairy Sandals",
       "have_boost": 0,
       "boost_text": ""
     },
@@ -5215,13 +5215,6 @@
       "name": "Lucky Red Hat",
       "have_boost": 0,
       "boost_text": ""
-    },
-    {
-      "id": 605,
-      "floor": 0.25,
-      "lastSalePrice": 0.19,
-      "supply": 3092,
-      "collection": "wearables"
     },
     {
       "id": 423,
@@ -5244,6 +5237,13 @@
       "boost_text": ""
     },
     {
+      "id": 605,
+      "floor": 0.29,
+      "lastSalePrice": 0.25,
+      "supply": 3092,
+      "collection": "wearables"
+    },
+    {
       "id": 504,
       "floor": 0.319,
       "lastSalePrice": 0.001,
@@ -5255,8 +5255,8 @@
     },
     {
       "id": 420,
-      "floor": 0.33,
-      "lastSalePrice": 0.338,
+      "floor": 0.34,
+      "lastSalePrice": 0.33,
       "supply": 12813,
       "collection": "wearables",
       "name": "Gingerbread Onesie",
@@ -5270,16 +5270,6 @@
       "supply": 2989,
       "collection": "wearables",
       "name": "Fish Hook Waders",
-      "have_boost": 0,
-      "boost_text": ""
-    },
-    {
-      "id": 450,
-      "floor": 0.35,
-      "lastSalePrice": 0.3,
-      "supply": 2515,
-      "collection": "wearables",
-      "name": "Bloomwarden Suit",
       "have_boost": 0,
       "boost_text": ""
     },
@@ -5304,6 +5294,16 @@
       "boost_text": ""
     },
     {
+      "id": 450,
+      "floor": 0.3998,
+      "lastSalePrice": 0.35,
+      "supply": 2515,
+      "collection": "wearables",
+      "name": "Bloomwarden Suit",
+      "have_boost": 0,
+      "boost_text": ""
+    },
+    {
       "id": 212,
       "floor": 0.4345,
       "lastSalePrice": 0.1102,
@@ -5314,6 +5314,13 @@
       "boost_text": ""
     },
     {
+      "id": 569,
+      "floor": 0.45,
+      "lastSalePrice": 0.4,
+      "supply": 2696,
+      "collection": "wearables"
+    },
+    {
       "id": 315,
       "floor": 0.4897,
       "lastSalePrice": 0.2,
@@ -5322,13 +5329,6 @@
       "name": "Soybean Onesie",
       "have_boost": 0,
       "boost_text": ""
-    },
-    {
-      "id": 569,
-      "floor": 0.4899,
-      "lastSalePrice": 0.4,
-      "supply": 2696,
-      "collection": "wearables"
     },
     {
       "id": 435,
@@ -5399,13 +5399,6 @@
       "name": "Spa Robe",
       "have_boost": 0,
       "boost_text": ""
-    },
-    {
-      "id": 578,
-      "floor": 0.9,
-      "lastSalePrice": 0.9999,
-      "supply": 17583,
-      "collection": "wearables"
     },
     {
       "id": 219,
@@ -5498,22 +5491,29 @@
       "boost_text": ""
     },
     {
+      "id": 578,
+      "floor": 1,
+      "lastSalePrice": 1,
+      "supply": 17583,
+      "collection": "wearables"
+    },
+    {
+      "id": 396,
+      "floor": 1,
+      "lastSalePrice": 1.07,
+      "supply": 2977,
+      "collection": "wearables",
+      "name": "Cowboy Hat",
+      "have_boost": 0,
+      "boost_text": ""
+    },
+    {
       "id": 296,
       "floor": 1.0499,
       "lastSalePrice": 0.2223,
       "supply": 2593,
       "collection": "wearables",
       "name": "Orange Monarch Dress",
-      "have_boost": 0,
-      "boost_text": ""
-    },
-    {
-      "id": 396,
-      "floor": 1.099,
-      "lastSalePrice": 1.07,
-      "supply": 2977,
-      "collection": "wearables",
-      "name": "Cowboy Hat",
       "have_boost": 0,
       "boost_text": ""
     },
@@ -5546,7 +5546,7 @@
     },
     {
       "id": 307,
-      "floor": 1.2899,
+      "floor": 1.2799,
       "lastSalePrice": 1.2,
       "supply": 2030,
       "collection": "wearables",
@@ -5753,8 +5753,8 @@
     },
     {
       "id": 518,
-      "floor": 2.197,
-      "lastSalePrice": 1.99,
+      "floor": 2.196,
+      "lastSalePrice": 2.16,
       "supply": 13489,
       "collection": "wearables",
       "name": "Walrus Onesie",
@@ -5933,6 +5933,16 @@
       "boost_text": ""
     },
     {
+      "id": 562,
+      "floor": 3.4998,
+      "lastSalePrice": 3.48,
+      "supply": 13688,
+      "collection": "wearables",
+      "name": "Shrimp Onesie",
+      "have_boost": 1,
+      "boost_text": "+1 random fish every 15th reel"
+    },
+    {
       "id": 357,
       "floor": 3.5,
       "lastSalePrice": 0.5,
@@ -5951,16 +5961,6 @@
       "name": "Full Bloom Shirt",
       "have_boost": 0,
       "boost_text": ""
-    },
-    {
-      "id": 562,
-      "floor": 3.5,
-      "lastSalePrice": 3.5898,
-      "supply": 13688,
-      "collection": "wearables",
-      "name": "Shrimp Onesie",
-      "have_boost": 1,
-      "boost_text": "+1 random fish every 15th reel"
     },
     {
       "id": 365,
@@ -5983,21 +5983,21 @@
       "boost_text": ""
     },
     {
-      "id": 602,
-      "floor": 3.77,
-      "lastSalePrice": 2.2,
-      "supply": 258,
-      "collection": "wearables"
-    },
-    {
       "id": 447,
-      "floor": 3.777,
+      "floor": 3.7599,
       "lastSalePrice": 3.7,
       "supply": 735,
       "collection": "wearables",
       "name": "Bunny Pants",
       "have_boost": 0,
       "boost_text": ""
+    },
+    {
+      "id": 602,
+      "floor": 3.77,
+      "lastSalePrice": 2.2,
+      "supply": 258,
+      "collection": "wearables"
     },
     {
       "id": 155,
@@ -6041,7 +6041,7 @@
     },
     {
       "id": 359,
-      "floor": 4.4999,
+      "floor": 4.3999,
       "lastSalePrice": 1.5001,
       "supply": 334,
       "collection": "wearables",
@@ -6211,6 +6211,13 @@
       "boost_text": ""
     },
     {
+      "id": 573,
+      "floor": 6,
+      "lastSalePrice": 3,
+      "supply": 135,
+      "collection": "wearables"
+    },
+    {
       "id": 81,
       "floor": 6,
       "lastSalePrice": 5,
@@ -6251,16 +6258,6 @@
       "boost_text": ""
     },
     {
-      "id": 476,
-      "floor": 6.6666,
-      "lastSalePrice": 5.5004,
-      "supply": 12930,
-      "collection": "wearables",
-      "name": "Turd Topper",
-      "have_boost": 1,
-      "boost_text": "+1 Fertiliser from Composters"
-    },
-    {
       "id": 195,
       "floor": 6.8,
       "lastSalePrice": 4.54,
@@ -6271,11 +6268,14 @@
       "boost_text": ""
     },
     {
-      "id": 573,
-      "floor": 6.9,
-      "lastSalePrice": 3,
-      "supply": 135,
-      "collection": "wearables"
+      "id": 476,
+      "floor": 6.9968,
+      "lastSalePrice": 6.996,
+      "supply": 12930,
+      "collection": "wearables",
+      "name": "Turd Topper",
+      "have_boost": 1,
+      "boost_text": "+1 Fertiliser from Composters"
     },
     {
       "id": 82,
@@ -6393,7 +6393,7 @@
     },
     {
       "id": 531,
-      "floor": 8.8999,
+      "floor": 8.8998,
       "lastSalePrice": 10,
       "supply": 179,
       "collection": "wearables",
@@ -6576,16 +6576,6 @@
       "boost_text": ""
     },
     {
-      "id": 244,
-      "floor": 14.999,
-      "lastSalePrice": 10,
-      "supply": 119,
-      "collection": "wearables",
-      "name": "Koi Fish Hat",
-      "have_boost": 0,
-      "boost_text": ""
-    },
-    {
       "id": 530,
       "floor": 14.9999,
       "lastSalePrice": 14.95,
@@ -6686,16 +6676,6 @@
       "boost_text": ""
     },
     {
-      "id": 529,
-      "floor": 16.66,
-      "lastSalePrice": 18.94,
-      "supply": 181,
-      "collection": "wearables",
-      "name": "Neon Noiz Pants",
-      "have_boost": 0,
-      "boost_text": ""
-    },
-    {
       "id": 132,
       "floor": 16.98,
       "lastSalePrice": 15,
@@ -6756,6 +6736,16 @@
       "boost_text": ""
     },
     {
+      "id": 529,
+      "floor": 18.95,
+      "lastSalePrice": 18.94,
+      "supply": 181,
+      "collection": "wearables",
+      "name": "Neon Noiz Pants",
+      "have_boost": 0,
+      "boost_text": ""
+    },
+    {
       "id": 231,
       "floor": 19,
       "lastSalePrice": 5,
@@ -6782,16 +6772,6 @@
       "supply": 254,
       "collection": "wearables",
       "name": "Pumpkin Head",
-      "have_boost": 0,
-      "boost_text": ""
-    },
-    {
-      "id": 495,
-      "floor": 20,
-      "lastSalePrice": 9,
-      "supply": 188,
-      "collection": "wearables",
-      "name": "Sweet Devil Dress",
       "have_boost": 0,
       "boost_text": ""
     },
@@ -6863,16 +6843,6 @@
       "boost_text": ""
     },
     {
-      "id": 401,
-      "floor": 21.8,
-      "lastSalePrice": 21,
-      "supply": 3133,
-      "collection": "wearables",
-      "name": "White Sheep Onesie",
-      "have_boost": 1,
-      "boost_text": "+0.25 Wool"
-    },
-    {
       "id": 280,
       "floor": 22,
       "lastSalePrice": 10,
@@ -6940,9 +6910,19 @@
       "collection": "wearables"
     },
     {
+      "id": 401,
+      "floor": 23.999,
+      "lastSalePrice": 21.8,
+      "supply": 3133,
+      "collection": "wearables",
+      "name": "White Sheep Onesie",
+      "have_boost": 1,
+      "boost_text": "+0.25 Wool"
+    },
+    {
       "id": 27,
       "floor": 24,
-      "lastSalePrice": 22,
+      "lastSalePrice": 21,
       "supply": 5001,
       "collection": "wearables",
       "name": "Sunflower Amulet",
@@ -6951,8 +6931,8 @@
     },
     {
       "id": 477,
-      "floor": 24.8899,
-      "lastSalePrice": 24.899,
+      "floor": 24.8999,
+      "lastSalePrice": 20.6021,
       "supply": 2382,
       "collection": "wearables",
       "name": "Architect Ruler",
@@ -6980,6 +6960,16 @@
       "boost_text": ""
     },
     {
+      "id": 495,
+      "floor": 25.25,
+      "lastSalePrice": 9,
+      "supply": 188,
+      "collection": "wearables",
+      "name": "Sweet Devil Dress",
+      "have_boost": 0,
+      "boost_text": ""
+    },
+    {
       "id": 406,
       "floor": 25.798,
       "lastSalePrice": 25.79,
@@ -6996,6 +6986,16 @@
       "supply": 95,
       "collection": "wearables",
       "name": "Bumpkin Puppet",
+      "have_boost": 0,
+      "boost_text": ""
+    },
+    {
+      "id": 103,
+      "floor": 28,
+      "lastSalePrice": 4,
+      "supply": 159,
+      "collection": "wearables",
+      "name": "Goblin Puppet",
       "have_boost": 0,
       "boost_text": ""
     },
@@ -7030,26 +7030,6 @@
       "boost_text": ""
     },
     {
-      "id": 103,
-      "floor": 29,
-      "lastSalePrice": 4,
-      "supply": 159,
-      "collection": "wearables",
-      "name": "Goblin Puppet",
-      "have_boost": 0,
-      "boost_text": ""
-    },
-    {
-      "id": 28,
-      "floor": 29,
-      "lastSalePrice": 30,
-      "supply": 5000,
-      "collection": "wearables",
-      "name": "Carrot Amulet",
-      "have_boost": 1,
-      "boost_text": "-20% Carrot Plot Growth time"
-    },
-    {
       "id": 422,
       "floor": 29.96,
       "lastSalePrice": 25,
@@ -7061,13 +7041,23 @@
     },
     {
       "id": 251,
-      "floor": 29.993,
+      "floor": 29.991,
       "lastSalePrice": 24.213,
       "supply": 3133,
       "collection": "wearables",
       "name": "Banana Onesie",
       "have_boost": 1,
       "boost_text": "-20% Banana Growth Time"
+    },
+    {
+      "id": 28,
+      "floor": 30,
+      "lastSalePrice": 30,
+      "supply": 5000,
+      "collection": "wearables",
+      "name": "Carrot Amulet",
+      "have_boost": 1,
+      "boost_text": "-20% Carrot Plot Growth time"
     },
     {
       "id": 485,
@@ -7081,8 +7071,8 @@
     },
     {
       "id": 317,
-      "floor": 32.5,
-      "lastSalePrice": 29,
+      "floor": 32.499,
+      "lastSalePrice": 25.102,
       "supply": 2047,
       "collection": "wearables",
       "name": "Olive Royalty Shirt",
@@ -7136,16 +7126,6 @@
       "supply": 57,
       "collection": "wearables",
       "name": "Skinning Knife",
-      "have_boost": 0,
-      "boost_text": ""
-    },
-    {
-      "id": 528,
-      "floor": 36,
-      "lastSalePrice": 44,
-      "supply": 67,
-      "collection": "wearables",
-      "name": "404 Chic Top",
       "have_boost": 0,
       "boost_text": ""
     },
@@ -7208,8 +7188,8 @@
     },
     {
       "id": 276,
-      "floor": 40.4,
-      "lastSalePrice": 40,
+      "floor": 40.8999,
+      "lastSalePrice": 40.4,
       "supply": 2894,
       "collection": "wearables",
       "name": "Bee Suit",
@@ -7219,7 +7199,7 @@
     {
       "id": 174,
       "floor": 42.997,
-      "lastSalePrice": 38.22,
+      "lastSalePrice": 39,
       "supply": 3183,
       "collection": "wearables",
       "name": "Corn Onesie",
@@ -7237,6 +7217,16 @@
       "boost_text": ""
     },
     {
+      "id": 528,
+      "floor": 44.9999,
+      "lastSalePrice": 44,
+      "supply": 67,
+      "collection": "wearables",
+      "name": "404 Chic Top",
+      "have_boost": 0,
+      "boost_text": ""
+    },
+    {
       "id": 245,
       "floor": 46,
       "lastSalePrice": 8,
@@ -7248,7 +7238,7 @@
     },
     {
       "id": 55,
-      "floor": 51,
+      "floor": 50,
       "lastSalePrice": 30,
       "supply": 233,
       "collection": "wearables",
@@ -7258,7 +7248,7 @@
     },
     {
       "id": 122,
-      "floor": 52,
+      "floor": 51,
       "lastSalePrice": 52,
       "supply": 154,
       "collection": "wearables",
@@ -7317,21 +7307,21 @@
       "boost_text": ""
     },
     {
+      "id": 467,
+      "floor": 58,
+      "lastSalePrice": 40,
+      "supply": 72,
+      "collection": "wearables",
+      "name": "Slime Hat",
+      "have_boost": 0,
+      "boost_text": ""
+    },
+    {
       "id": 564,
       "floor": 59,
       "lastSalePrice": 21,
       "supply": 111,
       "collection": "wearables"
-    },
-    {
-      "id": 238,
-      "floor": 59.9999,
-      "lastSalePrice": 52.2003,
-      "supply": 2353,
-      "collection": "wearables",
-      "name": "Saw Fish",
-      "have_boost": 1,
-      "boost_text": "+5 daily fishing reels\n+1 Worm from Composting"
     },
     {
       "id": 148,
@@ -7350,16 +7340,6 @@
       "supply": 300,
       "collection": "wearables",
       "name": "Shark Onesie",
-      "have_boost": 0,
-      "boost_text": ""
-    },
-    {
-      "id": 467,
-      "floor": 60,
-      "lastSalePrice": 40,
-      "supply": 72,
-      "collection": "wearables",
-      "name": "Slime Hat",
       "have_boost": 0,
       "boost_text": ""
     },
@@ -7384,6 +7364,16 @@
       "boost_text": ""
     },
     {
+      "id": 244,
+      "floor": 64,
+      "lastSalePrice": 10,
+      "supply": 119,
+      "collection": "wearables",
+      "name": "Koi Fish Hat",
+      "have_boost": 0,
+      "boost_text": ""
+    },
+    {
       "id": 565,
       "floor": 65,
       "lastSalePrice": 79,
@@ -7391,9 +7381,19 @@
       "collection": "wearables"
     },
     {
+      "id": 238,
+      "floor": 66.5798,
+      "lastSalePrice": 53.0001,
+      "supply": 2353,
+      "collection": "wearables",
+      "name": "Saw Fish",
+      "have_boost": 1,
+      "boost_text": "+5 daily fishing reels\n+1 Worm from Composting"
+    },
+    {
       "id": 350,
-      "floor": 70.999,
-      "lastSalePrice": 60.15,
+      "floor": 71.978,
+      "lastSalePrice": 70,
       "supply": 3193,
       "collection": "wearables",
       "name": "Camel Onesie",
@@ -7412,7 +7412,7 @@
     },
     {
       "id": 128,
-      "floor": 75,
+      "floor": 73,
       "lastSalePrice": 78,
       "supply": 999,
       "collection": "wearables",
@@ -7532,8 +7532,8 @@
     },
     {
       "id": 282,
-      "floor": 103,
-      "lastSalePrice": 100.99,
+      "floor": 100,
+      "lastSalePrice": 92,
       "supply": 2833,
       "collection": "wearables",
       "name": "Crimstone Armor",
@@ -7579,23 +7579,13 @@
     },
     {
       "id": 230,
-      "floor": 131.89,
-      "lastSalePrice": 124.899,
+      "floor": 131.799,
+      "lastSalePrice": 99.3,
       "supply": 584,
       "collection": "wearables",
       "name": "Crab Trap",
       "have_boost": 1,
       "boost_text": "+1 Crab when digging or drilling"
-    },
-    {
-      "id": 511,
-      "floor": 133,
-      "lastSalePrice": 119,
-      "supply": 52,
-      "collection": "wearables",
-      "name": "Holiday Feast Background",
-      "have_boost": 0,
-      "boost_text": ""
     },
     {
       "id": 66,
@@ -7609,7 +7599,7 @@
     },
     {
       "id": 469,
-      "floor": 175,
+      "floor": 174,
       "lastSalePrice": 77,
       "supply": 86,
       "collection": "wearables",
@@ -7629,8 +7619,8 @@
     },
     {
       "id": 405,
-      "floor": 194,
-      "lastSalePrice": 167,
+      "floor": 192,
+      "lastSalePrice": 161,
       "supply": 445,
       "collection": "wearables",
       "name": "Merino Jumper",
@@ -7638,14 +7628,14 @@
       "boost_text": "+1 Merino Wool"
     },
     {
-      "id": 250,
-      "floor": 198,
-      "lastSalePrice": 159,
-      "supply": 500,
+      "id": 560,
+      "floor": 195,
+      "lastSalePrice": 209.99,
+      "supply": 1731,
       "collection": "wearables",
-      "name": "Banana Amulet",
+      "name": "Deep Sea Salt Cave Background",
       "have_boost": 1,
-      "boost_text": "+0.5 Bananas"
+      "boost_text": "+5 Salt per harvest"
     },
     {
       "id": 597,
@@ -7663,6 +7653,16 @@
       "name": "Broccoli Hat",
       "have_boost": 1,
       "boost_text": "-50% Broccoli Plot Growth Time"
+    },
+    {
+      "id": 250,
+      "floor": 200,
+      "lastSalePrice": 198,
+      "supply": 500,
+      "collection": "wearables",
+      "name": "Banana Amulet",
+      "have_boost": 1,
+      "boost_text": "+0.5 Bananas"
     },
     {
       "id": 430,
@@ -7683,16 +7683,6 @@
       "name": "Cardboard Wings",
       "have_boost": 0,
       "boost_text": ""
-    },
-    {
-      "id": 560,
-      "floor": 209.99,
-      "lastSalePrice": 200,
-      "supply": 1731,
-      "collection": "wearables",
-      "name": "Deep Sea Salt Cave Background",
-      "have_boost": 1,
-      "boost_text": "+5 Salt per harvest"
     },
     {
       "id": 33,
@@ -7735,16 +7725,6 @@
       "boost_text": "+1 Olive"
     },
     {
-      "id": 559,
-      "floor": 279,
-      "lastSalePrice": 265.1,
-      "supply": 833,
-      "collection": "wearables",
-      "name": "Bubble Aura",
-      "have_boost": 1,
-      "boost_text": "-20% Fish Market processing time\n20% chance for +1 yield from Fish Processing"
-    },
-    {
       "id": 403,
       "floor": 286,
       "lastSalePrice": 286,
@@ -7755,8 +7735,18 @@
       "boost_text": "+1 Feather"
     },
     {
+      "id": 559,
+      "floor": 287.9999,
+      "lastSalePrice": 279,
+      "supply": 833,
+      "collection": "wearables",
+      "name": "Bubble Aura",
+      "have_boost": 1,
+      "boost_text": "-20% Fish Market processing time\n20% chance for +1 yield from Fish Processing"
+    },
+    {
       "id": 308,
-      "floor": 289,
+      "floor": 288,
       "lastSalePrice": 290,
       "supply": 630,
       "collection": "wearables",
@@ -7765,12 +7755,32 @@
       "boost_text": "+2 Oil"
     },
     {
+      "id": 373,
+      "floor": 290,
+      "lastSalePrice": 209,
+      "supply": 587,
+      "collection": "wearables",
+      "name": "Grape Pants",
+      "have_boost": 1,
+      "boost_text": "+0.2 Grapes"
+    },
+    {
       "id": 508,
       "floor": 295,
       "lastSalePrice": 33,
       "supply": 32,
       "collection": "wearables",
       "name": "Snowman Mask",
+      "have_boost": 0,
+      "boost_text": ""
+    },
+    {
+      "id": 511,
+      "floor": 295,
+      "lastSalePrice": 119,
+      "supply": 52,
+      "collection": "wearables",
+      "name": "Holiday Feast Background",
       "have_boost": 0,
       "boost_text": ""
     },
@@ -7791,26 +7801,6 @@
       "supply": 65,
       "collection": "wearables",
       "name": "Diamond Snow Aura",
-      "have_boost": 0,
-      "boost_text": ""
-    },
-    {
-      "id": 373,
-      "floor": 315,
-      "lastSalePrice": 209,
-      "supply": 587,
-      "collection": "wearables",
-      "name": "Grape Pants",
-      "have_boost": 1,
-      "boost_text": "+0.2 Grapes"
-    },
-    {
-      "id": 537,
-      "floor": 333,
-      "lastSalePrice": 150,
-      "supply": 62,
-      "collection": "wearables",
-      "name": "Glitch Aura",
       "have_boost": 0,
       "boost_text": ""
     },
@@ -7852,14 +7842,14 @@
       "boost_text": ""
     },
     {
-      "id": 526,
+      "id": 537,
       "floor": 400,
-      "lastSalePrice": 399,
-      "supply": 1863,
+      "lastSalePrice": 150,
+      "supply": 62,
       "collection": "wearables",
-      "name": "Corn Silk Hair",
-      "have_boost": 1,
-      "boost_text": "+2 Corn"
+      "name": "Glitch Aura",
+      "have_boost": 0,
+      "boost_text": ""
     },
     {
       "id": 456,
@@ -7872,8 +7862,18 @@
       "boost_text": "-50% Medicine to heal animals"
     },
     {
+      "id": 526,
+      "floor": 429,
+      "lastSalePrice": 399,
+      "supply": 1863,
+      "collection": "wearables",
+      "name": "Corn Silk Hair",
+      "have_boost": 1,
+      "boost_text": "+2 Corn"
+    },
+    {
       "id": 427,
-      "floor": 439,
+      "floor": 434,
       "lastSalePrice": 400,
       "supply": 450,
       "collection": "wearables",
@@ -7902,6 +7902,16 @@
       "boost_text": "33% chance next reset is free after feeding pet fully."
     },
     {
+      "id": 410,
+      "floor": 458,
+      "lastSalePrice": 556,
+      "supply": 175,
+      "collection": "wearables",
+      "name": "Sol & Luna",
+      "have_boost": 1,
+      "boost_text": "-50% Crafting Box Time"
+    },
+    {
       "id": 555,
       "floor": 460,
       "lastSalePrice": 469,
@@ -7912,14 +7922,14 @@
       "boost_text": "20% chance to get +1 crustacean yield"
     },
     {
-      "id": 410,
-      "floor": 478,
-      "lastSalePrice": 556,
-      "supply": 175,
+      "id": 56,
+      "floor": 489,
+      "lastSalePrice": 525,
+      "supply": 152,
       "collection": "wearables",
-      "name": "Sol & Luna",
+      "name": "Parsnip",
       "have_boost": 1,
-      "boost_text": "-50% Crafting Box Time"
+      "boost_text": "+20% Parsnip"
     },
     {
       "id": 311,
@@ -7930,16 +7940,6 @@
       "name": "Paw Shield",
       "have_boost": 1,
       "boost_text": "+25% Faction Pet Satiation and Marks Awarded"
-    },
-    {
-      "id": 56,
-      "floor": 490,
-      "lastSalePrice": 525,
-      "supply": 152,
-      "collection": "wearables",
-      "name": "Parsnip",
-      "have_boost": 1,
-      "boost_text": "+20% Parsnip"
     },
     {
       "id": 92,
@@ -7972,18 +7972,8 @@
       "boost_text": ""
     },
     {
-      "id": 285,
-      "floor": 525,
-      "lastSalePrice": 480,
-      "supply": 529,
-      "collection": "wearables",
-      "name": "Crimstone Amulet",
-      "have_boost": 1,
-      "boost_text": "-20% Crimstone Cooldown Time"
-    },
-    {
       "id": 309,
-      "floor": 535,
+      "floor": 534,
       "lastSalePrice": 442,
       "supply": 530,
       "collection": "wearables",
@@ -7994,7 +7984,7 @@
     {
       "id": 408,
       "floor": 535,
-      "lastSalePrice": 549,
+      "lastSalePrice": 490,
       "supply": 729,
       "collection": "wearables",
       "name": "Milk Apron",
@@ -8003,7 +7993,7 @@
     },
     {
       "id": 31,
-      "floor": 537,
+      "floor": 536,
       "lastSalePrice": 224,
       "supply": 68,
       "collection": "wearables",
@@ -8012,8 +8002,18 @@
       "boost_text": "Free Sunflower Seeds"
     },
     {
+      "id": 285,
+      "floor": 573,
+      "lastSalePrice": 525,
+      "supply": 529,
+      "collection": "wearables",
+      "name": "Crimstone Amulet",
+      "have_boost": 1,
+      "boost_text": "-20% Crimstone Cooldown Time"
+    },
+    {
       "id": 522,
-      "floor": 588,
+      "floor": 586,
       "lastSalePrice": 416,
       "supply": 280,
       "collection": "wearables",
@@ -8042,6 +8042,16 @@
       "boost_text": ""
     },
     {
+      "id": 480,
+      "floor": 848,
+      "lastSalePrice": 700,
+      "supply": 170,
+      "collection": "wearables",
+      "name": "Alchemist Apron",
+      "have_boost": 0,
+      "boost_text": ""
+    },
+    {
       "id": 371,
       "floor": 849,
       "lastSalePrice": 710,
@@ -8050,16 +8060,6 @@
       "name": "Lemon Shield",
       "have_boost": 1,
       "boost_text": "+1 Lemon"
-    },
-    {
-      "id": 480,
-      "floor": 873,
-      "lastSalePrice": 700,
-      "supply": 170,
-      "collection": "wearables",
-      "name": "Alchemist Apron",
-      "have_boost": 0,
-      "boost_text": ""
     },
     {
       "id": 60,
@@ -8083,7 +8083,7 @@
     },
     {
       "id": 434,
-      "floor": 1074,
+      "floor": 1000,
       "lastSalePrice": 851,
       "supply": 300,
       "collection": "wearables",
@@ -8093,7 +8093,7 @@
     },
     {
       "id": 58,
-      "floor": 1149,
+      "floor": 1139,
       "lastSalePrice": 1095,
       "supply": 405,
       "collection": "wearables",
@@ -8103,7 +8103,7 @@
     },
     {
       "id": 432,
-      "floor": 1165,
+      "floor": 1160,
       "lastSalePrice": 1000,
       "supply": 300,
       "collection": "wearables",
@@ -8113,7 +8113,7 @@
     },
     {
       "id": 479,
-      "floor": 1334,
+      "floor": 1331,
       "lastSalePrice": 1151,
       "supply": 275,
       "collection": "wearables",
@@ -8123,7 +8123,7 @@
     },
     {
       "id": 413,
-      "floor": 1445,
+      "floor": 1444,
       "lastSalePrice": 1200,
       "supply": 170,
       "collection": "wearables",
@@ -8172,25 +8172,15 @@
       "boost_text": "Heal animals for free"
     },
     {
-      "id": 431,
-      "floor": 1833,
-      "lastSalePrice": 1832,
-      "supply": 150,
-      "collection": "wearables",
-      "name": "Solflare Aegis",
-      "have_boost": 1,
-      "boost_text": "-50% Plot Crop Time in Summer"
-    },
-    {
       "id": 500,
-      "floor": 1840,
-      "lastSalePrice": 1890,
+      "floor": 1920,
+      "lastSalePrice": 1740,
       "supply": 200,
       "collection": "wearables"
     },
     {
       "id": 501,
-      "floor": 2058,
+      "floor": 2054,
       "lastSalePrice": 1825,
       "supply": 350,
       "collection": "wearables",
@@ -8209,6 +8199,16 @@
       "boost_text": "+2 Wheat"
     },
     {
+      "id": 431,
+      "floor": 2350,
+      "lastSalePrice": 1832,
+      "supply": 150,
+      "collection": "wearables",
+      "name": "Solflare Aegis",
+      "have_boost": 1,
+      "boost_text": "-50% Plot Crop Time in Summer"
+    },
+    {
       "id": 291,
       "floor": 2675,
       "lastSalePrice": 1880,
@@ -8220,7 +8220,7 @@
     },
     {
       "id": 402,
-      "floor": 2898,
+      "floor": 2794,
       "lastSalePrice": 2400,
       "supply": 270,
       "collection": "wearables",
@@ -8230,8 +8230,8 @@
     },
     {
       "id": 30,
-      "floor": 3196,
-      "lastSalePrice": 3195,
+      "floor": 3285,
+      "lastSalePrice": 3197,
       "supply": 800,
       "collection": "wearables",
       "name": "Green Amulet",
@@ -8240,7 +8240,7 @@
     },
     {
       "id": 586,
-      "floor": 3450,
+      "floor": 3390,
       "lastSalePrice": 2999,
       "supply": 170,
       "collection": "wearables"
@@ -8257,7 +8257,7 @@
     },
     {
       "id": 457,
-      "floor": 3998,
+      "floor": 3996,
       "lastSalePrice": 3400,
       "supply": 205,
       "collection": "wearables",
@@ -8277,7 +8277,7 @@
     },
     {
       "id": 433,
-      "floor": 4725,
+      "floor": 4697,
       "lastSalePrice": 3050,
       "supply": 150,
       "collection": "wearables",
@@ -8393,6 +8393,16 @@
       "boost_text": "+25% Bumpkin XP"
     },
     {
+      "id": 520,
+      "floor": 25000,
+      "lastSalePrice": 18999,
+      "supply": 110,
+      "collection": "wearables",
+      "name": "Paw Aura",
+      "have_boost": 1,
+      "boost_text": "Feed pets for free"
+    },
+    {
       "id": 519,
       "floor": 29000,
       "lastSalePrice": 25000,
@@ -8401,16 +8411,6 @@
       "name": "Crimstone Spikes Hair",
       "have_boost": 1,
       "boost_text": "Mine crimstone without Gold Pickaxes"
-    },
-    {
-      "id": 520,
-      "floor": 29499,
-      "lastSalePrice": 18999,
-      "supply": 110,
-      "collection": "wearables",
-      "name": "Paw Aura",
-      "have_boost": 1,
-      "boost_text": "Feed pets for free"
     },
     {
       "id": 369,
@@ -8653,5 +8653,5 @@
       "boost_text": ""
     }
   ],
-  "updatedAt": 1794920364520
+  "updatedAt": 1794952755685
 }
